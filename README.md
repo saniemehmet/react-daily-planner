@@ -1,22 +1,25 @@
-Daily Planner App
-This app helps you boost your productivity with an easy-to-use day planner that gives your life the organization you’ve been searching for!
+<h1>Daily Planner App</h1>
+<p>This app helps you boost your productivity with an easy-to-use day planner that gives your life the organization you’ve been searching for!
+</p>
 
-Downloading and running the project
-Step 1:
-
+<h2>Downloading and running the project</h2>
+<h4>Step 1:</h4>
 git clone [repository url]
-Step 2:
 
+<h4>Step 2:</h4>
 cd [local repository]
-Step 3:
 
+<h4>Step 3:</h4>
 npm install
-Step 4:
+
+<h4>Step 4:</h4>
 npm run test
 
-Step 5:
+<h4>Step 5: (open second terminal)</h4>
 npm start
 
-The published Daily Planner App:
+
+<h2>The published Daily Planner App:</h2>
 https://bgcodinggirl.github.io/react-daily-planner/
+
 
