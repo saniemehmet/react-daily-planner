@@ -22,7 +22,7 @@
     "predeploy": "npm run test && npm run build",
     "deploy": "gh-pages -d build",
     "start": "set PORT=3001 && react-scripts start",
-    "build": "react-scripts build",
+    "build": "json-server --watch data.json && react-scripts build",
     "test": "json-server --watch data.json",
     "eject": "react-scripts eject"
   },
