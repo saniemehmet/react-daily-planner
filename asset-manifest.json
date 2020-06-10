@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bgcodinggirl/react-daily-planner/static/css/main.da8839ed.chunk.css",
-    "main.js": "/bgcodinggirl/react-daily-planner/static/js/main.5534f4b2.chunk.js",
-    "main.js.map": "/bgcodinggirl/react-daily-planner/static/js/main.5534f4b2.chunk.js.map",
-    "runtime-main.js": "/bgcodinggirl/react-daily-planner/static/js/runtime-main.94c3298f.js",
-    "runtime-main.js.map": "/bgcodinggirl/react-daily-planner/static/js/runtime-main.94c3298f.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/bgcodinggirl/react-daily-planner/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.6b3221d5.chunk.js": "/bgcodinggirl/react-daily-planner/static/js/2.6b3221d5.chunk.js",
-    "static/js/2.6b3221d5.chunk.js.map": "/bgcodinggirl/react-daily-planner/static/js/2.6b3221d5.chunk.js.map",
-    "index.html": "/bgcodinggirl/react-daily-planner/index.html",
-    "precache-manifest.c8b0bba501ec7b0d89186b07b9ea58e3.js": "/bgcodinggirl/react-daily-planner/precache-manifest.c8b0bba501ec7b0d89186b07b9ea58e3.js",
-    "service-worker.js": "/bgcodinggirl/react-daily-planner/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/bgcodinggirl/react-daily-planner/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.da8839ed.chunk.css.map": "/bgcodinggirl/react-daily-planner/static/css/main.da8839ed.chunk.css.map",
-    "static/js/2.6b3221d5.chunk.js.LICENSE.txt": "/bgcodinggirl/react-daily-planner/static/js/2.6b3221d5.chunk.js.LICENSE.txt"
+    "main.css": "/react-daily-planner/static/css/main.da8839ed.chunk.css",
+    "main.js": "/react-daily-planner/static/js/main.42284ef5.chunk.js",
+    "main.js.map": "/react-daily-planner/static/js/main.42284ef5.chunk.js.map",
+    "runtime-main.js": "/react-daily-planner/static/js/runtime-main.c4d14e0e.js",
+    "runtime-main.js.map": "/react-daily-planner/static/js/runtime-main.c4d14e0e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/react-daily-planner/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6b3221d5.chunk.js": "/react-daily-planner/static/js/2.6b3221d5.chunk.js",
+    "static/js/2.6b3221d5.chunk.js.map": "/react-daily-planner/static/js/2.6b3221d5.chunk.js.map",
+    "index.html": "/react-daily-planner/index.html",
+    "precache-manifest.24dc2c4718c1250ac42955f09bb6eafa.js": "/react-daily-planner/precache-manifest.24dc2c4718c1250ac42955f09bb6eafa.js",
+    "service-worker.js": "/react-daily-planner/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/react-daily-planner/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.da8839ed.chunk.css.map": "/react-daily-planner/static/css/main.da8839ed.chunk.css.map",
+    "static/js/2.6b3221d5.chunk.js.LICENSE.txt": "/react-daily-planner/static/js/2.6b3221d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.94c3298f.js",
+    "static/js/runtime-main.c4d14e0e.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.6b3221d5.chunk.js",
     "static/css/main.da8839ed.chunk.css",
-    "static/js/main.5534f4b2.chunk.js"
+    "static/js/main.42284ef5.chunk.js"
   ]
 }
