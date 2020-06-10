@@ -19,7 +19,5 @@ npm run test
 npm start
 
 
-<h2>The published Daily Planner App:</h2>
-https://bgcodinggirl.github.io/react-daily-planner/
 
 
