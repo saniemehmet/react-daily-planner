@@ -1,0 +1,101 @@
+{
+  "mondaySchedule": [
+    {
+      "time": "08:08",
+      "note": "go to fitness ",
+      "id": 1
+    },
+    {
+      "time": "16:28",
+      "note": "eat",
+      "id": 2
+    },
+    {
+      "time": "17:17",
+      "note": "eat again",
+      "id": 3
+    },
+    {
+      "time": "00:05",
+      "note": "watch movie and eat snacks",
+      "id": 5
+    },
+    {
+      "time": "23:23",
+      "note": "sleep",
+      "id": 6
+    }
+  ],
+  "tuesdaySchedule": [
+    {
+      "time": "10:35",
+      "note": "sleep",
+      "id": 1
+    },
+    {
+      "time": "14:26",
+      "note": "watch movie",
+      "id": 2
+    },
+    {
+      "time": "02:30",
+      "note": "dream",
+      "id": 3
+    }
+  ],
+  "wednesdaySchedule": [
+    {
+      "time": "09:15",
+      "note": "coding",
+      "id": 1
+    },
+    {
+      "time": "08:30",
+      "note": "go for a walk",
+      "id": 2
+    }
+  ],
+  "thursdaySchedule": [
+    {
+      "time": "01:00",
+      "note": "do react project",
+      "id": 1
+    },
+    {
+      "time": "20:00",
+      "note": "play games",
+      "id": 2
+    }
+  ],
+  "fridaySchedule": [
+    {
+      "time": "00:00",
+      "note": "nothing to do",
+      "id": 1
+    }
+  ],
+  "saturdaySchedule": [
+    {
+      "time": "18:00",
+      "note": "go to coffee",
+      "id": 1
+    },
+    {
+      "time": "19:00",
+      "note": "eat ice cream",
+      "id": 2
+    }
+  ],
+  "sundaySchedule": [
+    {
+      "time": "08:00",
+      "note": "relax day",
+      "id": 1
+    },
+    {
+      "time": "10:00",
+      "note": "cook pancakes",
+      "id": 2
+    }
+  ]
+}
